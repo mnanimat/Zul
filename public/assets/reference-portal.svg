@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <radialGradient id="a" cx="50%" cy="42%" r="65%">
+      <stop offset="0" stop-color="#fff0b8" stop-opacity=".95"/>
+      <stop offset=".42" stop-color="#e5bd63" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#090b18"/>
+    </radialGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67dbff" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#ff8ec7" stop-opacity=".3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="#090b18"/>
+  <circle cx="600" cy="430" r="310" fill="url(#a)"/>
+  <circle cx="600" cy="430" r="240" fill="none" stroke="#fff0b8" stroke-opacity=".35" stroke-width="4"/>
+  <circle cx="600" cy="430" r="170" fill="none" stroke="#67dbff" stroke-opacity=".28" stroke-width="3"/>
+  <path d="M250 790c70-150 160-240 350-240s280 90 350 240" fill="none" stroke="url(#b)" stroke-width="24" stroke-linecap="round"/>
+  <path d="M365 790V345c0-120 95-220 235-220s235 100 235 220v445" fill="none" stroke="#f4dfb8" stroke-opacity=".55" stroke-width="26"/>
+  <g fill="#fff0b8" opacity=".82">
+    <circle cx="205" cy="160" r="5"/><circle cx="955" cy="185" r="7"/><circle cx="1020" cy="520" r="4"/><circle cx="145" cy="510" r="4"/>
+    <path d="M600 318l28 68 72 6-55 47 17 70-62-37-62 37 17-70-55-47 72-6z"/>
+  </g>
+  <text x="600" y="830" text-anchor="middle" font-family="Inter, Arial" font-size="50" font-weight="800" fill="#fff9e9">PORTAL DA JORNADA</text>
+</svg>

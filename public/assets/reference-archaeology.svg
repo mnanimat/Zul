@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#13182e"/><stop offset="1" stop-color="#3a2517"/></linearGradient>
+    <linearGradient id="sand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e5bd63"/><stop offset="1" stop-color="#7f5830"/></linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="950" cy="160" r="85" fill="#fff0b8" opacity=".65"/>
+  <path d="M0 585c210-90 380-100 590-45s380 38 610-75v435H0z" fill="url(#sand)"/>
+  <g stroke="#f4dfb8" stroke-width="22" stroke-linecap="round" opacity=".75">
+    <path d="M260 610l150-265 150 265" fill="none"/>
+    <path d="M342 462h140"/>
+    <path d="M685 620V300M815 620V300M645 300h210M660 420h180"/>
+  </g>
+  <g fill="#090b18" opacity=".65">
+    <path d="M520 695c32-52 104-72 159-28 35 28 28 82-22 104-62 28-162 3-137-76z"/>
+    <path d="M742 700c40-27 93-20 110 18 20 45-33 83-92 61-38-14-50-55-18-79z"/>
+  </g>
+  <path d="M145 755c250-65 510-45 880 20" fill="none" stroke="#090b18" stroke-opacity=".35" stroke-width="12"/>
+  <text x="600" y="835" text-anchor="middle" font-family="Inter, Arial" font-size="48" font-weight="800" fill="#fff9e9">RUÍNAS QUE FALAM</text>
+</svg>

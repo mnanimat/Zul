@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <radialGradient id="light" cx="35%" cy="28%" r="70%"><stop stop-color="#ff8ec7" stop-opacity=".45"/><stop offset=".48" stop-color="#1c1531"/><stop offset="1" stop-color="#090b18"/></radialGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0b8"/><stop offset="1" stop-color="#c7944c"/></linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#light)"/>
+  <path d="M260 220c180-55 450-60 665 0 45 12 75 58 62 102-52 178-48 310 4 458-220-58-493-58-730 0 56-168 55-340-2-515-7-20-6-34 1-45z" fill="url(#paper)" opacity=".9"/>
+  <g fill="none" stroke="#5d3927" stroke-width="14" stroke-linecap="round" opacity=".52">
+    <path d="M370 350h450M355 430h500M385 510h390M355 590h470"/>
+  </g>
+  <path d="M780 642c70-70 90-170 58-284 113 66 139 224 33 330-35 35-74 57-116 70 6-42 15-80 25-116z" fill="#090b18" opacity=".58"/>
+  <path d="M760 760c-20-92 0-180 58-268" fill="none" stroke="#fff9e9" stroke-width="8" stroke-linecap="round" opacity=".88"/>
+  <text x="600" y="835" text-anchor="middle" font-family="Inter, Arial" font-size="48" font-weight="800" fill="#fff9e9">PERGAMINHO DOS VERSOS</text>
+</svg>

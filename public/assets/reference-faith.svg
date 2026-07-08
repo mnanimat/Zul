@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071423"/><stop offset=".55" stop-color="#111a32"/><stop offset="1" stop-color="#2c1a39"/></linearGradient>
+    <radialGradient id="halo" cx="50%" cy="28%" r="45%"><stop stop-color="#fff0b8" stop-opacity=".95"/><stop offset=".38" stop-color="#e5bd63" stop-opacity=".28"/><stop offset="1" stop-color="#e5bd63" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="600" cy="280" r="250" fill="url(#halo)"/>
+  <path d="M600 150v330M475 280h250" stroke="#fff0b8" stroke-width="34" stroke-linecap="round"/>
+  <path d="M0 705c180-110 330-120 505-42 110 48 223 63 345 24 120-40 210-75 350-22v235H0z" fill="#091020"/>
+  <path d="M310 760c160-210 430-248 600-15" fill="none" stroke="#84f5bd" stroke-opacity=".55" stroke-width="18" stroke-linecap="round"/>
+  <g fill="#fff9e9" opacity=".82"><circle cx="190" cy="180" r="5"/><circle cx="960" cy="215" r="6"/><circle cx="1025" cy="430" r="4"/><circle cx="270" cy="395" r="4"/></g>
+  <text x="600" y="835" text-anchor="middle" font-family="Inter, Arial" font-size="48" font-weight="800" fill="#fff9e9">TRILHA DA PROMESSA</text>
+</svg>
